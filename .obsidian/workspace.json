@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode-setting.md",
+                "file": "vscode/vscode-setting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vscode-setting.md",
+                "file": "vscode/vscode-setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vscode-setting.md",
+                "file": "vscode/vscode-setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vscode-setting.md"
+                "file": "vscode/vscode-setting.md"
               }
             }
           }
@@ -136,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4a85c28a6d3a992",
+  "active": "a8e16f3aac80c607",
   "lastOpenFiles": [
     "vue.md"
   ]
