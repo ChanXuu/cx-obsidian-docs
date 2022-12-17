@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vscode/vscode-setting.md",
+                "file": "前端/css/开发中可能用的CSS.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f37dd78b1a4e4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/css/开发中可能用的CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,9 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f37dd78b1a4e4f1",
+  "active": "a8e16f3aac80c607",
   "lastOpenFiles": [
     "vscode/vscode-setting.md",
+    "前端/css/开发中可能用的CSS.md",
     "vue.md"
   ]
 }
