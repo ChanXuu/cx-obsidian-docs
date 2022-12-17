@@ -133,10 +133,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "a8e16f3aac80c607",
+  "active": "a4a85c28a6d3a992",
   "lastOpenFiles": [
     "vscode/vscode-setting.md",
     "前端/css/开发中可能用的CSS.md",
