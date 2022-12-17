@@ -89,7 +89,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -129,13 +129,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a4a85c28a6d3a992",
+  "active": "7d50f235c7dd2dad",
   "lastOpenFiles": [
     "vscode/vscode-setting.md",
     "前端/css/开发中可能用的CSS.md",
