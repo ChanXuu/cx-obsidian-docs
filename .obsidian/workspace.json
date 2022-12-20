@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/css/开发中可能用的CSS.md",
+                "file": "前端/vue/Vue3 + Vite + Ts + Pinia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "149e8a0aa7a2b3a4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/css/开发中可能用的CSS.md",
+                "file": "前端/vue/Vue3 + Vite + Ts + Pinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/css/开发中可能用的CSS.md",
+                "file": "前端/vue/Vue3 + Vite + Ts + Pinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/css/开发中可能用的CSS.md"
+                "file": "前端/vue/Vue3 + Vite + Ts + Pinia.md"
               }
             }
           }
@@ -138,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d50f235c7dd2dad",
+  "active": "a4a85c28a6d3a992",
   "lastOpenFiles": [
-    "vscode/vscode-setting.md",
     "前端/css/开发中可能用的CSS.md",
+    "vscode/vscode-setting.md",
     "vue.md"
   ]
 }
