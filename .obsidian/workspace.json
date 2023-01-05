@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "前端/js/使用js技巧.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "149e8a0aa7a2b3a4",
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a4a85c28a6d3a992",
   "lastOpenFiles": [
